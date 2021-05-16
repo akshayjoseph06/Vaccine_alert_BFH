@@ -1,1 +1,2 @@
-# Vaccine_alert_BFH
+# Vaccine-alert
+Give alert when vaccine is available
